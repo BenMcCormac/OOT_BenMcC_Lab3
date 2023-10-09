@@ -1,0 +1,4 @@
+=================================================================================================
+This is all going up on the GitHub.
+Whoever I end up working with, please make sure to make it clear what you are changing or adding.
+=================================================================================================
